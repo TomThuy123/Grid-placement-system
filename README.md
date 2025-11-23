@@ -1,5 +1,5 @@
 # Grid-placement-system
-# A roblox placement system
+# # A roblox placement system
 # Note:
 # -This system was extracted from a tycoon game that I made. Hence, you will see some tycoon-related stuff in the scripts.
 # -The system is a gridded placement system that supports only for 1 floor. It consists of placement validation within a plot and non-intersection between objects. The showcase also consists of a mobile support system.
